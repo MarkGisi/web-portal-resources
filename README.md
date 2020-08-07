@@ -1,5 +1,5 @@
 # web-portal-resources
-A list of resources to assist being a web portal application
+A list of resources to assist with building a web portal application
 
 ## Helpful Videos
 
