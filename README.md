@@ -19,6 +19,8 @@ A list of resources to assist being a web portal application
   * [Security Rules! | Get to know Cloud Firestore (Firebase) #6](https://www.youtube.com/watch?v=eW5MdE3ZcAw)
   
 ### MongoDB
+  * [MongoDB in 5 Minutes](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
+  * [MongoDB Crash Course (30mins)](https://www.youtube.com/watch?v=-56x56UppqQ)
 
 
 ## Helpful Classes
@@ -36,7 +38,7 @@ A list of resources to assist being a web portal application
   * [Firebase Authentication & Security Complete Guide](https://www.udemy.com/course/firebase-authentication/)
   
 ### Mongo DB
-  * [MongoDB - The Complete Developer's Guide 2020](https://pro.academind.com/p/mongodb-the-complete-developer-s-guide-2020) 
+  * [MongoDB - The Complete Developer's Guide 2020](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) 
   
 ## Tools
  * Javascript
