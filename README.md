@@ -42,9 +42,12 @@ A list of resources to assist with building a web portal application
   
 ## Tools
  * Javascript
+ * [Video: Chrome/Chrome tools (30mins)](https://www.youtube.com/watch?v=x4q86IjJFag&feature=emb_rel_pause)
+   * [Video: Build better sites faster with Chrome DevTools](https://www.youtube.com/watch?v=VYyQv0CSZOE&feature=youtu.be)
  * git/Github - code respository
  * [Editor - VsCode](https://code.visualstudio.com/)
  * Firebase - database
+ * [Tools Cheatsheet](tools-cheatsheet.md)
   
 ## Misc
   * [AlgoExpert - Interview prep questions service](https://www.algoexpert.io/product)
