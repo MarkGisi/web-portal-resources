@@ -19,6 +19,7 @@ A list of resources to assist with building a web portal application
   * [Security Rules! | Get to know Cloud Firestore (Firebase) #6](https://www.youtube.com/watch?v=eW5MdE3ZcAw)
   * [How Do I Paginate My Data? | Get to know Cloud Firestore #7](https://www.youtube.com/watch?v=poqTHxtDXwU&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ&index=7)
   * [How do Transactions Work? | Get to know Cloud Firestore #8](https://www.youtube.com/watch?v=dOVSr0OsAoU&list=WL&index=7&t=0s)
+  * [To Realtime or Not? | Get to know Cloud Firestore #10](https://www.youtube.com/watch?v=3aoxOtMM2rc&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ&index=10)
   * [How do Cloud Functions work? | Get to know Cloud Firestore #11](https://www.youtube.com/watch?v=rERRuBjxJ80&list=WL&index=3&t=37s)
   * [5 uses for Cloud Functions | Get to know Cloud Firestore #12)](https://www.youtube.com/watch?v=77XmRDtOL7c&list=WL&index=2&t=25s)
   
@@ -32,6 +33,7 @@ A list of resources to assist with building a web portal application
 ### Javascript
  * [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)
  * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
+ * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
  
 ### Vue.js
  * [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](udemy.com/course/vuejs-2-the-complete-guide)
