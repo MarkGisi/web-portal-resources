@@ -27,6 +27,7 @@ A list of resources to assist with building a web portal application
 
 ### Javascript
  * [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced)
+ * [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/)
  
 ### Vue.js
  * [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](udemy.com/course/vuejs-2-the-complete-guide)
