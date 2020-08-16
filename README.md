@@ -17,6 +17,7 @@ A list of resources to assist with building a web portal application
   * [How to NOT get a 30K Firebase Bill](https://www.youtube.com/watch?v=Lb-Pnytoi-8&t=285s)
   * [100 Firebase Tips, Tricks, and Screw-ups](https://www.youtube.com/watch?v=iWEgpdVSZyg)
   * [Security Rules! | Get to know Cloud Firestore (Firebase) #6](https://www.youtube.com/watch?v=eW5MdE3ZcAw)
+  * [5 uses for Cloud Functions | Get to know Cloud Firestore #12)](https://www.youtube.com/watch?v=77XmRDtOL7c&list=WL&index=2&t=25s)
   
 ### MongoDB
   * [MongoDB in 5 Minutes](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
