@@ -55,6 +55,7 @@ A list of resources to assist with building a web portal application
  * [Editor - VsCode](https://code.visualstudio.com/)
  * Firebase - database
  * [Tools Cheatsheet](tools-cheatsheet.md)
+ * [Okta: Build a Single-Page App with Go and Vue](https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue)
   
 ## Misc
   * [AlgoExpert - Interview prep questions service](https://www.algoexpert.io/product)
