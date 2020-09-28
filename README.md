@@ -23,6 +23,9 @@ A list of resources to assist with building a web portal application
   * [How do Cloud Functions work? | Get to know Cloud Firestore #11](https://www.youtube.com/watch?v=rERRuBjxJ80&list=WL&index=3&t=37s)
   * [5 uses for Cloud Functions | Get to know Cloud Firestore #12)](https://www.youtube.com/watch?v=77XmRDtOL7c&list=WL&index=2&t=25s)
   
+#### Localbase 
+  * [Intro: localbase](https://www.youtube.com/watch?v=KJnupY2HPCg) - a local db with essentially the same API as Firebase
+  
 ### MongoDB
   * [MongoDB in 5 Minutes](https://www.youtube.com/watch?v=EE8ZTQxa0AM)
   * [MongoDB Crash Course (30mins)](https://www.youtube.com/watch?v=-56x56UppqQ)
